@@ -1,0 +1,17 @@
+{
+  "name": "exceltojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
